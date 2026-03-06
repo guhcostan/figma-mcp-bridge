@@ -29,6 +29,12 @@
 
 ---
 
+## Demo
+
+![figmind demo](./assets/demo.mov)
+
+---
+
 ## How it works
 
 ```
