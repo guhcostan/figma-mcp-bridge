@@ -12,6 +12,10 @@
 
   <br/>
 
+  [<img src="https://cursor.com/deeplink/mcp-install-dark.svg" alt="Add to Cursor" height="32" />](cursor://anysphere.cursor-deeplink/mcp/install?name=figmind&config=eyJjb21tYW5kIjogIm5weCIsICJhcmdzIjogWyIteSIsICJmaWdtaW5kQGxhdGVzdCJdfQ==)
+
+  <br/>
+
   **Give your AI the ability to think in Figma.**
 
   figmind connects any MCP-compatible AI client to Figma — letting it read, create, and modify designs in real time using natural language.
@@ -47,7 +51,11 @@ figmind runs a local MCP server your AI can call. A companion Figma plugin bridg
 
 ### Step 1 — Configure your MCP client
 
-Open `~/.cursor/mcp.json` and add:
+**One-click install for Cursor:**
+
+[<img src="https://cursor.com/deeplink/mcp-install-dark.svg" alt="Add to Cursor" height="32" />](cursor://anysphere.cursor-deeplink/mcp/install?name=figmind&config=eyJjb21tYW5kIjogIm5weCIsICJhcmdzIjogWyIteSIsICJmaWdtaW5kQGxhdGVzdCJdfQ==)
+
+Or manually — open `~/.cursor/mcp.json` and add:
 
 ```json
 {
