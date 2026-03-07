@@ -31,6 +31,9 @@
 
 ## Demo
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-ea4aaa?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/guhcostan)
+
+
 ![figmind demo](./assets/demo.mov)
 
 ---
